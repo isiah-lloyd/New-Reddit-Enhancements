@@ -10,3 +10,16 @@ Reddit made a big design change, here's some Userscripts to fix some annoying th
 ## Installation
 
 Download [Tampermonkey](http://tampermonkey.net/) for your browser and then click [this](https://github.com/isiah-lloyd/New-Reddit-Enhancements/raw/master/new-reddit-enhancements.user.js) link to install New Reddit Enchantments.
+
+## Configuration
+
+You can turn on and off features by editing the script in Tampermonkey. To edit the script go to your Tampermonkey dashboard and click on New Reddit Enchantments to open the editor. From there you should see code that looks like this:
+
+```javascript
+    const options = {
+        distinguishPromotions: true,
+        hideUsername: true,
+        hideModerating: true
+    };
+```
+You can turn off features here by setting it's value to `false` and turning it back on by setting it's value to `true`
