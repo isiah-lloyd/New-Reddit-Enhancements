@@ -1,8 +1,11 @@
 // ==UserScript==
 // @name         New Reddit Enhancements
 // @namespace    https://github.com/isiah-lloyd/New-Reddit-Enhancements
-// @version      1.0
+// @version      1.1
 // @description  Reddits new's design is kinda annoying
+// @updateURL    https://github.com/isiah-lloyd/New-Reddit-Enhancements/raw/master/new-reddit-enhancements.user.js
+// @downloadURL  https://github.com/isiah-lloyd/New-Reddit-Enhancements/raw/master/new-reddit-enhancements.user.js
+// @supportURL   https://github.com/isiah-lloyd/New-Reddit-Enhancements/issues
 // @author       Isiah Lloyd <isiah.me>
 // @include      http://*.reddit.com/*
 // @include      https://*.reddit.com/*
